@@ -1,2 +1,2 @@
-# UsoGeralTopicos2026
-Rotinas de uso geral da disciplina de Tópicos Avançados em Tratamento Estatístico de Dados de 2026
+# Topicos2026
+Rotinas desenvolvidas na disciplina de Tópicos Avançados em Tratamento Estatístico de Dados de 2026
